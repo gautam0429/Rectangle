@@ -7,3 +7,5 @@ Once you press Enter, your terminal will immediately print the following output:
 Iterating over the Rectangle instance:
 {'length': 20}
 {'width': 10}
+<img width="1830" height="544" alt="image" src="https://github.com/user-attachments/assets/e6b83928-c5c3-4190-812c-97a4ab1a835e" />
+<img width="1830" height="544" alt="image" src="https://github.com/user-attachments/assets/286768a0-67ab-423f-af71-0136e5f89d44" />
